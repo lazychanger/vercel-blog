@@ -10,8 +10,13 @@ Deploy your own Waline project with Vercel.
 
 ### Deploying From Your Terminal
 
-You can deploy your new Waline project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+You can deploy your new Hugo project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
 
 ```shell
 vercel
 ```
+
+### Links
+
+- [gohugo](https://gohugo.io)
+- [themes](https://themes.gohugo.io/)
