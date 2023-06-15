@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": 2,
+  "framework": "hugo",
+  "github": {
+    "silent": true
+  },
+  "env": {
+    "CONFIG_FILE": "hugo.toml"
+  },
+  "buildCommand": "hugo -D --gc --config \"${CONFIG_FILE}\"",
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.113.0"
+    }
+  }
+}
